@@ -1,0 +1,26 @@
+{
+  "name": "react-polymorphic-component",
+  "version": "1.0.0",
+  "description": "A successor to kripod's react-polymorphic-types to make it fully compatible with Typescript 5.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGioia/react-polymorphic-component.git"
+  },
+  "keywords": [
+    "react",
+    "polymorphism",
+    "polymorphic",
+    "component",
+    "typescript"
+  ],
+  "author": "JGioia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JGioia/react-polymorphic-component/issues"
+  },
+  "homepage": "https://github.com/JGioia/react-polymorphic-component#readme"
+}
